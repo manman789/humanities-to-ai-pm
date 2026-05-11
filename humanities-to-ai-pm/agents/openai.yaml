@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanities to AI PM"
+  short_description: "Turn humanities backgrounds into AI PM applications."
+  default_prompt: "Help me transition from a humanities background into an AI product manager role."
